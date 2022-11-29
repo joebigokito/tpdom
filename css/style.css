@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.wrapper {
+    max-width: 800px;
+    margin: 40px auto;
+}
+
+.form{
+    border: solid 2px green;
+    padding: 25px;
+    width: 530px;
+}
+.form input{
+    width: 50%;
+    height: 35px;
+}
+#btnsubmit{
+    width: 30%;
+    border: solid 1px green;
+    border-radius: 5px;
+    height: 30px;
+}
+
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+td, th {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+form  input {
+   margin: 5px;
+}
